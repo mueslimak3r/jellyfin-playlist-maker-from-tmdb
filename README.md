@@ -1,4 +1,4 @@
-# tmdb-playlist-maker-python
+# jellyfin-playlist-maker-from-tmdb
 
 use a tmdb list or collection ID to generate a jellyfin playlist
 
