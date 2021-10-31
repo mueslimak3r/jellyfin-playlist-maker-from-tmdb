@@ -1,0 +1,14 @@
+appdirs==1.4.4
+attrs==21.2.0
+cattrs==1.8.0
+certifi==2021.10.8
+charset-normalizer==2.0.7
+fulltmdb==0.3.0
+idna==3.3
+jellyfin-apiclient-python==1.7.2
+requests==2.26.0
+requests-cache==0.8.1
+six==1.16.0
+url-normalize==1.4.3
+urllib3==1.26.7
+websocket-client==1.2.1
